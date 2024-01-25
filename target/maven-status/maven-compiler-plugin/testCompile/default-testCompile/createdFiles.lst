@@ -1,0 +1,6 @@
+Pages\OrangeHRMDashboardPage.class
+Steps\DashBoardSteps.class
+Pages\OrangeHRMHomePage.class
+Steps\HomePageSteps.class
+runner\TestRunner.class
+StepDefinitions\loginPageDefinitions.class
